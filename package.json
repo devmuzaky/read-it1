@@ -13,9 +13,10 @@
   },
   "repository": "https://github.com/devmuzaky/read-it.git",
   "dependencies": {
-    "nodemon": "^2.0.19"
+
   },
   "devDependencies": {
-    "electron": "^20.1.4"
+    "electron": "^20.1.4",
+    "nodemon": "^2.0.19"
   }
 }
