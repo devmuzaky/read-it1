@@ -1,0 +1,21 @@
+{
+  "name": "read-it",
+  "productName": "read-it",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "moe_zaki",
+  "scripts": {
+    "start": "electron .",
+    "watch": "nodemon --exec electron .",
+    "reset": "git reset --hard"
+  },
+  "repository": "https://github.com/devmuzaky/read-it.git",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "devDependencies": {
+    "electron": "^20.1.4"
+  }
+}
